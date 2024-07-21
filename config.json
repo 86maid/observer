@@ -1,0 +1,23 @@
+{ 
+  "proxy": "http://127.0.0.1:7890",
+  "interval": 0.5,
+  "timeout": 3,
+  "product": [
+    {
+      "pair": "solana/2u7dCQP8J5EBTVGSzfJxLSAmmjGM2rMpWE45g98HgJPH",
+      "name": "SPIKE-USD-SWAP-LIN"
+    },
+    {
+      "pair": "solana/agsfwxz6sg9rcxpavgun1uxjbywnuk1jq59vdlry42bk",
+      "name": "BAKED-USD-SWAP-LIN"
+    },
+    {
+      "pair": "solana/34btbqurbt7l4mkodmb2wtjmbnhfcebt5ozbd1qivyeo",
+      "name": "DJT-USD-SWAP-LIN"
+    },
+    {
+      "pair": "ethereum/0x63a151d042dc870fb1b3f0c72cbbdd53a85898f6",
+      "name": "FIGHT-USD-SWAP-LIN"
+    }
+  ]
+}
